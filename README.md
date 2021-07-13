@@ -38,7 +38,7 @@ STEP 2 : After installing postgresql in your system ,say postgresql 11 version i
 			    	After running the above command prompt,it will ask password ,enter the password you have created when you installed postgresql
 			    </li>
 			    <li>
-			    	After running the psql command ,it will open like this <img src="/img/psql_command.jpg"/>
+			    	After running the psql command ,it will open like this <img src="img/psql_command.jpg" style="width: 40px;height: 120px">
 			    </li>
 		   </ul>
 		 </li>
