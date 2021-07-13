@@ -28,7 +28,19 @@ STEP 2 : After installing postgresql in your system ,say postgresql 11 version i
 	<li> STEP 6 : There is also one file path to be added in the path of Environment variable,that is 
  libraries path 'C:\Program Files\PostgreSQL\11\lib'</li>
 	<li> STEP 7 : After adding these two path ,psql can be open from command line.</li>
-	<li></li>
+	<li> STEP 8: Now open command prompt in window and type the command 
+		 <ul >
+			 	<li>
+			 	   psql -U postgres  postgres
+			    </li>
+			    <li>
+			    	Here in the above command first 'postgres' means database username and second 'postgres' means database name
+			    	After running the above command prompt,it will ask password ,enter the password you have created when you installed postgresql
+			    </li>
+		   </ul>
+		 </li>
+
+		</li>
 
 
 
