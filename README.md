@@ -40,6 +40,9 @@ STEP 2 : After installing postgresql in your system ,say postgresql 11 version i
 			    <li>
 			    	After running the psql command ,it will open like this <img src="img/psql_command.jpg" style="width: 40px;height: 120px">
 			    </li>
+			    <li>
+			    	Type command \du in psql after entering username and password ,it will list out all user in the postgres database
+			    </li>
 		   </ul>
 		 </li>
 
