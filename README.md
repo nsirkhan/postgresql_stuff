@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>INSTALLATION OF POSTGRESQL</title>
+	
 </head>
 <body>
 <h2>INSTALLATION OF POSTGRESQL</h2>
