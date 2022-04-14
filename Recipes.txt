@@ -4,6 +4,9 @@ Keer
 pasta
 chicken
 
+Beans
+Pizza
+
 
 
 
@@ -15,4 +18,8 @@ chicken
 Thank you: )
 
 
+
+Done my changes
+
 Final copy
+
